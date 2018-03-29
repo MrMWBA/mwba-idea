@@ -10,4 +10,8 @@ Submit as a pull request if you want to add a new idea.
 # To Do
 - A tutorial for new people on Github to submit ideas
 
->Active collaborators of the month:
+# Contributors
+>Active contributors of the month:
+
+
+>Active collaborators ever:
