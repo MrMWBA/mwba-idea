@@ -9,6 +9,5 @@ Submit as a pull request if you want to add a new idea.
 
 # To Do
 - A tutorial for new people on Github to submit ideas
-- ~~Add ideas.txt~~ [DONE]
 
 >Active collaborators of the month:
