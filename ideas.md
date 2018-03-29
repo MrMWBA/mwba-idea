@@ -40,7 +40,9 @@ Survival mode inventory in creation mode so that we can see and wear stuff in cr
 38. More flying animals
 39. New gamemode = Rapid mode (2x faster the time, 2x damage)
 40. Flippers
-41. Premade houses ( to craft it u need many materials. Eg: 64 Stone, 64 brick, 64 wood, 32 torches)
+41. Prefabticated houses ( to craft it u need many materials. Eg: 64 Stone, 64 brick, 64 wood, 32 torches)
 42. Special drops from bosses (like a bow or a cape)
 43. A special anvil in which if you combine 2 or more items the item becomes more powerful
-44. More dimensions
+44. More dimensions.
+45. Block divide tool to divide blocks in halfs,1/4 and 1/8.
+46. Teleports (need ancient gens to craft)
