@@ -44,3 +44,5 @@ Survival mode inventory in creation mode so that we can see and wear stuff in cr
 42. Special drops from bosses (like a bow or a cape)
 43. A special anvil in which if you combine 2 or more items the item becomes more powerful
 44. More dimensions
+45. Lithuim potenciometre
+46. World edit new tools: add block tool, remove block tool, shaper tool.
